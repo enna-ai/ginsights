@@ -16,4 +16,4 @@ GITHUB_USERNAME=your-github-username
 ```go run .```
 
 ## Output
-<img src="https://i.imgur.com/5ySXO6y.png" alt="followers list example output">
+<img src="https://i.imgur.com/nOETOJd.png" alt="followers list example output">

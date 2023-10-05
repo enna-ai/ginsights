@@ -87,7 +87,7 @@ func FormatTable(followings, followers []User) {
 	}
 
 	table := tablewriter.NewWriter(os.Stdout)
-	table.SetHeader([]string{"Follower", "Following Me?"})
+	table.SetHeader([]string{"Username", "Following Me?"})
 
 	for _, following := range followings {
 		isFollower := followerStatus[following.Login]
